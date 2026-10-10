@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ouyang-gw
+/src/backend/database.py      @ouyang-gw
+/src/backend/routers/auth.py  @ouyang-gw
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ouyang-gw
